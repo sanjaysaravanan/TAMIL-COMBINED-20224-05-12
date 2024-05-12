@@ -80,7 +80,7 @@ Topics:
             }
           ]);
 
-  Eg: filter
+  filtering:
 
     find the total for Daniel
 
@@ -99,8 +99,7 @@ Topics:
 
     Q3: find the avg/percent of each students
 
-    Q4: find all the items which is urgent
-
+    Q4: find all the items which is urgent using aggregate
 
     Q5: find total urgent qty for each items
       Step 1:
